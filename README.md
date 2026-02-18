@@ -125,4 +125,6 @@ Credential ID: sNQfuCiQSZjGQT2Le
 - Dashboard Screenshots
 - README Documentation
 
+https://github.com/himanshigoel06/Tata-retail-data-visualization-powerbi/blob/main/SS-Tata-retail-data-visualization-powerbi.png
+
 
